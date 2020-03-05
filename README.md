@@ -44,3 +44,23 @@ Using [Heroku](https://www.heroku.com/).
 * [bcrypt](https://www.npmjs.com/package/bcrypt).
 * [axios](https://www.npmjs.com/package/axios).
 * [mongoose](https://www.npmjs.com/package/mongoose).
+
+## Walkthrough
+This guide will help show you how to use the application and all of its features
+
+### Features
+* User Sign Up
+* User Log In/Out
+* Create/Update User Profile
+* Feed Page
+* Posts
+* Comments
+* User Profile Pages
+* Friend Requests with Notifications
+* My Clans Page
+* Create Clan
+* Clan Page
+* Discover Page
+
+
+
