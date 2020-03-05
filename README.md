@@ -138,8 +138,8 @@ Upon Entering the Site the User will have 2 Options
 
 * Once the request is accept, both users will recieve a notification that they have formed an Alliance
 * Now both user's will have access to each others profile information and posts/comments
-* Also, each users posts will now appear on each others feed page
-* The Ally will appear in the Allies Bar on the Users Feed page as well
+* Each users posts will now appear on each others feed page
+* The Ally will appear in the Allies Bar on the Users Feed page 
 * When the user removes a friend, their posts and profiles will not longer be accessible and removed from Allies Bar
 
 ![Grid Notification](/client/src/images/Walkthrough/grid_notification2.JPG)
